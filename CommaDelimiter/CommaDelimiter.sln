@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommaDelimiter", "CommaDelimiter\CommaDelimiter.csproj", "{D1D488E5-D025-4E8A-ACDE-D71AEBB98ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{C60C8769-212D-4EE2-ACE5-DDBD73E79595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D488E5-D025-4E8A-ACDE-D71AEBB98ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D488E5-D025-4E8A-ACDE-D71AEBB98ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D488E5-D025-4E8A-ACDE-D71AEBB98ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D488E5-D025-4E8A-ACDE-D71AEBB98ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60C8769-212D-4EE2-ACE5-DDBD73E79595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C8769-212D-4EE2-ACE5-DDBD73E79595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C8769-212D-4EE2-ACE5-DDBD73E79595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C8769-212D-4EE2-ACE5-DDBD73E79595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ADD1AC1-21BE-4EE2-8B8C-17C7C90B42AD}
+	EndGlobalSection
+EndGlobal
